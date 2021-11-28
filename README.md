@@ -1,6 +1,6 @@
 <p align="center"><img src="image.gif" alt="coding" style="width:300px;"/></p>
 <hr>
-<br>
+
 ## 🚀 Languages and Tools:
 <p align="left"> 
     <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
@@ -17,7 +17,6 @@
 </p>
 <hr>
 
-<br>
 ## 📊 My Github Stats
 
   <br/>
