@@ -24,3 +24,8 @@
   <a href="https://github.com/MLTTH/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLTTH&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   </p>
+<p align="center">
+    <a href="https://github.com/MLTTH/github-readme-streak-stats">
+    <img title="🔥🔥🔥" alt="MLTTH's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MLTTH&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+    </a>
+</p>
