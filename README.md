@@ -1,6 +1,3 @@
-<p align="center"><img src="image.gif" alt="coding" style="width:300px;"/></p>
-<hr>
-
 ## 🚀 Languages and Tools:
 <p align="left">
 </a>
